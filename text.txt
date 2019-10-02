@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, world
 Nibba
+=======
+Swag bich
+>>>>>>> master
